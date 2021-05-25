@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/node", "npm:14.17.0"],
+            ["@types/node", "npm:14.17.1"],
             ["@types/react", "npm:17.0.5"],
             ["@yarnpkg/pnpify", "virtual:906fc89a72d6cd9863d56b9a011d9f99f3508f42e440368ae73ccac7661f8bdbeb40ea8040e3195826e71aadc5752d9f5c98cb6af15b42fab2a01537348185f2#npm:3.0.0-rc.3"],
             ["next", "virtual:906fc89a72d6cd9863d56b9a011d9f99f3508f42e440368ae73ccac7661f8bdbeb40ea8040e3195826e71aadc5752d9f5c98cb6af15b42fab2a01537348185f2#npm:10.2.2"],
@@ -367,10 +367,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:14.17.0", {
-          "packageLocation": "./.yarn/cache/@types-node-npm-14.17.0-2942ba859f-f437147b39.zip/node_modules/@types/node/",
+        ["npm:14.17.1", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-14.17.1-6efbb98787-3ab1180ff2.zip/node_modules/@types/node/",
           "packageDependencies": [
-            ["@types/node", "npm:14.17.0"]
+            ["@types/node", "npm:14.17.1"]
           ],
           "linkType": "HARD",
         }]
@@ -1032,7 +1032,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["buildr", "workspace:."],
-            ["@types/node", "npm:14.17.0"],
+            ["@types/node", "npm:14.17.1"],
             ["@types/react", "npm:17.0.5"],
             ["@yarnpkg/pnpify", "virtual:906fc89a72d6cd9863d56b9a011d9f99f3508f42e440368ae73ccac7661f8bdbeb40ea8040e3195826e71aadc5752d9f5c98cb6af15b42fab2a01537348185f2#npm:3.0.0-rc.3"],
             ["next", "virtual:906fc89a72d6cd9863d56b9a011d9f99f3508f42e440368ae73ccac7661f8bdbeb40ea8040e3195826e71aadc5752d9f5c98cb6af15b42fab2a01537348185f2#npm:10.2.2"],
