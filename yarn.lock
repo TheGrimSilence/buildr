@@ -275,14 +275,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.7":
-  version: 17.0.7
-  resolution: "@types/react@npm:17.0.7"
+"@types/react@npm:18.0.14":
+  version: 18.0.14
+  resolution: "@types/react@npm:18.0.14"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 0b550ae747c254c8117cf92b99fb1e98ad71d073f0661d4119aa422487da06ab2f3e6e3523389ff3c54a0f2c59d9fb8f03e729001839490fcc473b0f7e275ff3
+  checksum: cb9d911fafaf079d41ba239ecf7e1af9bdd28950640a96bb479b610509303be984b611ad21020fac20707a4fa05b1158e2f4bf772c9d6960b4e328b964ff3baa
   languageName: node
   linkType: hard
 
@@ -854,7 +854,7 @@ __metadata:
   resolution: "buildr@workspace:."
   dependencies:
     "@types/node": 14.17.1
-    "@types/react": 17.0.7
+    "@types/react": 18.0.14
     "@yarnpkg/pnpify": 3.0.0-rc.3
     next: 10.2.3
     react: 17.0.2
