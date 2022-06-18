@@ -254,10 +254,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:14.17.1":
-  version: 14.17.1
-  resolution: "@types/node@npm:14.17.1"
-  checksum: 3ab1180ff2579f4039aa2416087df03e4e8b5f930b64e024ad2b2ae73e546f6054c3bae0324180d425944c7c408c02fdf6ca71f5a265ed05f28aeaae0a2c3599
+"@types/node@npm:14.18.21":
+  version: 14.18.21
+  resolution: "@types/node@npm:14.18.21"
+  checksum: 6edda807ad4cbebe05c5e0ec88c818f34cff6bbd2e2f249fc8f3bb50e5edbf12d6cfaad6c101ff43afe9dee7a20f147428b1745518dd311f7eb1f4519cdf6873
   languageName: node
   linkType: hard
 
@@ -853,7 +853,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "buildr@workspace:."
   dependencies:
-    "@types/node": 14.17.1
+    "@types/node": 14.18.21
     "@types/react": 17.0.7
     "@yarnpkg/pnpify": 3.0.0-rc.3
     next: 10.2.3
